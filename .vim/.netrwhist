@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/kenny.li/project/cascading.samples'
+let g:netrw_dirhist_2='/Users/kenny.li/tm/stats-fb-api'
+let g:netrw_dirhist_3='/Users/kenny.li/tm/datacube-loader'
+let g:netrw_dirhist_4='/Users/kenny.li/tm'
+let g:netrw_dirhist_5='/Users/kenny.li/tm/vm'
+let g:netrw_dirhist_6='/Users/kenny.li/leetcode'
